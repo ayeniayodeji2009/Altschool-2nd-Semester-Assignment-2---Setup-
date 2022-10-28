@@ -1,0 +1,22 @@
+/* react router link */
+.navigate{
+  display: flex-inline;
+  margin: 10px;
+  font-size: 1.5em;
+  gap: 10px;
+  gap: 10px 20px; /* row-gap column gap */
+  row-gap: 10px;
+  column-gap: 20px;
+  text-decoration: none;
+  background-color: green;
+  
+}
+
+
+.pagination_btn{
+  background-color: green;
+  color: white;
+  margin: 5px;
+  border-radius: 3px;
+  
+}
